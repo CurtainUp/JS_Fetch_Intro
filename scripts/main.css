@@ -1,0 +1,10 @@
+.foodList {
+  display: flex;
+  flex-direction: row;
+}
+
+.foodDiv {
+  border: solid red 1px;
+  margin: 5px;
+  padding: 5px;
+}
